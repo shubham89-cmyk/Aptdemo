@@ -1,0 +1,251 @@
+{
+  "project_info": {
+    "project_number": "286274690055",
+    "firebase_url": "https://armenu-dee8f.firebaseio.com",
+    "project_id": "armenu-dee8f",
+    "storage_bucket": "armenu-dee8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286274690055:android:7cdc8a786f24843391dea2",
+        "android_client_info": {
+          "package_name": "com.appetizar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286274690055-3nqiuc54hqgel3shh2shgusthtubc0cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appetizar",
+            "certificate_hash": "06696c2c20f064de3bf5e175b6c8f4de70aa7758"
+          }
+        },
+        {
+          "client_id": "286274690055-7ct3gisdsli993n40k6fsdtvke9ed7h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appetizar",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "286274690055-co0mrfor037na8i1pagc3ev2h48jljuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appetizar",
+            "certificate_hash": "af3a4148cd277eb1fbd245a9fc8932896edcbded"
+          }
+        },
+        {
+          "client_id": "286274690055-kmaqmrbn0ktcter8f8ucn0dro9i0pklf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appetizar",
+            "certificate_hash": "c99de2465b0778b06867012dfb0f84168041da79"
+          }
+        },
+        {
+          "client_id": "286274690055-3ir5fktq60nedqvm9nb8lgh0oofgub72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5-1Jqhn5GINFBwbhf3KwwcBH_cGjSDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286274690055-3ir5fktq60nedqvm9nb8lgh0oofgub72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286274690055-i4aj3h3im987j2kemiliblf1km81adc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.armenu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286274690055:android:adda4ffd575d45ff91dea2",
+        "android_client_info": {
+          "package_name": "com.appetizardriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286274690055-3ir5fktq60nedqvm9nb8lgh0oofgub72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5-1Jqhn5GINFBwbhf3KwwcBH_cGjSDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286274690055-3ir5fktq60nedqvm9nb8lgh0oofgub72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286274690055-i4aj3h3im987j2kemiliblf1km81adc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.armenu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286274690055:android:5a3b6e229dd9fe0591dea2",
+        "android_client_info": {
+          "package_name": "com.armenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286274690055-55cmbare2pn1l2mes0726gtelpvbomi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armenu",
+            "certificate_hash": "06696c2c20f064de3bf5e175b6c8f4de70aa7758"
+          }
+        },
+        {
+          "client_id": "286274690055-a0pum0i57k8nhhoef2epva7ddd30nln1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armenu",
+            "certificate_hash": "8a846eec463cd58e02bea6d4bdffddd2bed77f89"
+          }
+        },
+        {
+          "client_id": "286274690055-i4hm96oq3jhbj39ao3rgc96ts3fm6mf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armenu",
+            "certificate_hash": "d35c0520f1b3bc70f800af8ce0d6f3aaa6fc5161"
+          }
+        },
+        {
+          "client_id": "286274690055-meaf35nuu3anurb0659d4re8onekpa10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armenu",
+            "certificate_hash": "af3a4148cd277eb1fbd245a9fc8932896edcbded"
+          }
+        },
+        {
+          "client_id": "286274690055-mrnm27uj7m9vn3rfu0377r57fhrvp3q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armenu",
+            "certificate_hash": "1329816e624bb36ca2bef2bc9c7a5382ee02e575"
+          }
+        },
+        {
+          "client_id": "286274690055-o6k1hr8tt8gtdvu2cr9dshgo100bcgrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armenu",
+            "certificate_hash": "cfed764f601adb233f7770df1f513b1597c035dc"
+          }
+        },
+        {
+          "client_id": "286274690055-q9n72q3ahmarrasldu1i40qru5ahq29o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armenu",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "286274690055-vabl00fff2ergt0k4fn7vjsie4vsrlv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armenu",
+            "certificate_hash": "31460efb11b3d4cb35b8c77a17db79ee6fdcc1a0"
+          }
+        },
+        {
+          "client_id": "286274690055-3ir5fktq60nedqvm9nb8lgh0oofgub72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5-1Jqhn5GINFBwbhf3KwwcBH_cGjSDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286274690055-3ir5fktq60nedqvm9nb8lgh0oofgub72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286274690055-i4aj3h3im987j2kemiliblf1km81adc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.armenu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286274690055:android:12c88af6670b567691dea2",
+        "android_client_info": {
+          "package_name": "com.fooddeliveryapptemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286274690055-3ir5fktq60nedqvm9nb8lgh0oofgub72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5-1Jqhn5GINFBwbhf3KwwcBH_cGjSDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286274690055-3ir5fktq60nedqvm9nb8lgh0oofgub72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286274690055-i4aj3h3im987j2kemiliblf1km81adc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.armenu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
