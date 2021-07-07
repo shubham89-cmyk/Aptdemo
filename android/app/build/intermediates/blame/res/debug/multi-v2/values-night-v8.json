@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/catalina_2021/Desktop/Aptdemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/f6b33bc294385cb411f0ad2229f5775d/material-1.1.0/res/values-night-v8/values-night-v8.xml",

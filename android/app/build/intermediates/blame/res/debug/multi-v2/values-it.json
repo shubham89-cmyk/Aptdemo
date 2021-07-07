@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
+            "outputFile": "/Users/catalina_2021/Desktop/Aptdemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/a08ee665ddc6b55bc0c7a0da70378d46/jetified-ucrop-2.2.6-native/res/values-it/values-it.xml",

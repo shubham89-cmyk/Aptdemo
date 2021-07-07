@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "outputFile": "/Users/catalina_2021/Desktop/Aptdemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b7a9475e4b2b2b8b2aee41a918eff9dc/core-1.1.0/res/values-ca/values-ca.xml",

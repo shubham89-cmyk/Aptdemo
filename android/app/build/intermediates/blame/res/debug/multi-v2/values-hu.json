@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "/Users/catalina_2021/Desktop/Aptdemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
             "map": [
                 {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b883f4e79b513b19ea68d17527560a8e/jetified-firebase-messaging-19.0.0/res/values-hu/values.xml",

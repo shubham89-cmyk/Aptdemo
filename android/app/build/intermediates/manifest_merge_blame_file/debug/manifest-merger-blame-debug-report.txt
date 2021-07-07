@@ -9,49 +9,49 @@
 9        android:targetSdkVersion="29" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.CAMERA" />
-13-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:5:5-64
-13-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:5:22-62
+13-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:5:5-64
+13-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:5:22-62
 14
 15    <uses-feature
-15-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:6:5-85
+15-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:6:5-85
 16        android:name="android.hardware.camera"
-16-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:6:19-57
+16-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:6:19-57
 17        android:required="false" />
-17-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:6:58-82
+17-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:6:58-82
 18    <uses-feature
-18-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:7:5-91
+18-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:7:5-91
 19        android:name="android.hardware.camera.front"
-19-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:7:19-63
+19-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:7:19-63
 20        android:required="false" />
-20-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:7:64-88
+20-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:7:64-88
 21
 22    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-22-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:8:5-81
-22-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:8:22-78
+22-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:8:5-81
+22-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:8:22-78
 23    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-23-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:9:5-79
-23-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:9:22-76
+23-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:9:5-79
+23-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:9:22-76
 24    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-24-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:10:5-81
-24-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:10:22-78
+24-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:10:5-81
+24-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:10:22-78
 25    <uses-permission android:name="android.permission.VIBRATE" />
-25-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:11:5-66
-25-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:11:22-63
+25-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:11:5-66
+25-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:11:22-63
 26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 26-->[com.facebook.flipper:flipper:0.54.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/058ba83a2cbff2f5f22a9905e087d4ca/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
 26-->[com.facebook.flipper:flipper:0.54.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/058ba83a2cbff2f5f22a9905e087d4ca/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
 27    <uses-permission android:name="android.permission.WAKE_LOCK" />
-27-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
-27-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+27-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+27-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
 28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-28-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
-28-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+28-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+28-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
 29
 30    <uses-feature
 30-->[com.google.android.gms:play-services-maps:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/94db6a22b395db1eeb9f89506718d5aa/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
@@ -64,60 +64,60 @@
 33-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:26:22-79
 34
 35    <queries>
-35-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-14:15
+35-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-14:15
 36        <intent>
-36-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-13:18
+36-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-13:18
 37            <action android:name="android.media.action.IMAGE_CAPTURE" />
-37-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-73
-37-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:21-70
+37-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-73
+37-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:21-70
 38        </intent>
 39    </queries>
 40
 41    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-41-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-81
-41-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-78
+41-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-81
+41-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-78
 42    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 42-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:5-110
 42-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:22-107
 43
 44    <application
-44-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:13:5-70:19
+44-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:13:5-70:19
 45        android:name="com.appetizardriver.MainApplication"
-45-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:14:7-38
+45-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:14:7-38
 46        android:allowBackup="false"
-46-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:17:7-34
+46-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:17:7-34
 47        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 47-->[androidx.core:core:1.1.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b7a9475e4b2b2b8b2aee41a918eff9dc/core-1.1.0/AndroidManifest.xml:24:18-86
 48        android:debuggable="true"
 49        android:icon="@mipmap/ic_launcher"
-49-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:16:7-41
+49-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:16:7-41
 50        android:label="@string/app_name"
-50-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:15:7-39
+50-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:15:7-39
 51        android:theme="@style/AppTheme"
-51-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:18:7-38
+51-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:18:7-38
 52        android:usesCleartextTraffic="true" > <!-- android:roundIcon="@mipmap/ic_launcher_round" -->
-52-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/debug/AndroidManifest.xml:7:18-53
+52-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/debug/AndroidManifest.xml:7:18-53
 53        <activity
-53-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:20:7-30:18
+53-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:20:7-30:18
 54            android:name="com.appetizardriver.MainActivity"
-54-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:21:9-37
+54-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:21:9-37
 55            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-55-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:23:9-86
+55-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:23:9-86
 56            android:label="@string/app_name"
-56-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:22:9-41
+56-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:22:9-41
 57            android:launchMode="singleTop"
-57-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:24:9-39
+57-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:24:9-39
 58            android:windowSoftInputMode="adjustResize" >
-58-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:25:9-51
+58-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:25:9-51
 59            <intent-filter>
-59-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:26:9-29:25
+59-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:26:9-29:25
 60                <action android:name="android.intent.action.MAIN" />
-60-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:27:13-65
-60-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:27:21-62
+60-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:27:13-65
+60-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:27:21-62
 61
 62                <category android:name="android.intent.category.LAUNCHER" />
-62-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:28:13-73
-62-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:28:23-70
+62-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:28:13-73
+62-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:28:23-70
 63            </intent-filter>
 64        </activity> <!-- ......... -->
 65        <!--
@@ -140,77 +140,77 @@
 82        android:value="@string/default_notification_channel_id"/>
 83        -->
 84        <receiver android:name="io.invertase.firebase.notifications.RNFirebaseNotificationReceiver" />
-84-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:45:7-100
-84-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:45:17-98
+84-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:45:7-100
+84-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:45:17-98
 85        <receiver
-85-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:46:9-53:20
+85-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:46:9-53:20
 86            android:name="io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver"
-86-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:46:67-155
+86-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:46:67-155
 87            android:enabled="true"
-87-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:46:19-41
+87-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:46:19-41
 88            android:exported="true" >
-88-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:46:42-65
+88-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:46:42-65
 89            <intent-filter>
-89-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:47:11-52:27
+89-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:47:11-52:27
 90                <action android:name="android.intent.action.BOOT_COMPLETED" />
-90-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:48:13-74
-90-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:48:21-72
+90-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:48:13-74
+90-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:48:21-72
 91                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-91-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:49:13-77
-91-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:49:21-75
+91-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:49:13-77
+91-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:49:21-75
 92                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
-92-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:50:13-77
-92-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:50:21-75
+92-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:50:13-77
+92-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:50:21-75
 93
 94                <category android:name="android.intent.category.DEFAULT" />
-94-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:51:13-72
-94-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:51:23-69
+94-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:51:13-72
+94-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:51:23-69
 95            </intent-filter>
 96        </receiver> <!-- ......... -->
 97        <service android:name="io.invertase.firebase.messaging.RNFirebaseMessagingService" >
-97-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:56:7-60:17
-97-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:56:16-89
+97-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:56:7-60:17
+97-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:56:16-89
 98            <intent-filter>
-98-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:57:11-59:27
+98-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:57:11-59:27
 99                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-99-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:58:13-74
-99-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:58:21-71
+99-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:58:13-74
+99-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:58:21-71
 100            </intent-filter>
 101        </service>
 102
 103        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-103-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:62:7-84
-103-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:62:17-81
+103-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:62:7-84
+103-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:62:17-81
 104
 105        <meta-data
-105-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:63:7-65:63
+105-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:63:7-65:63
 106            android:name="com.google.android.geo.API_KEY"
-106-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:64:6-51
+106-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:64:6-51
 107            android:value="AIzaSyATsQuZCY6bq0JIgpkW6HTOnSBsCSrS0ug" /> <!-- <uses-library android:name="org.apache.http.legacy" android:required="false"/> -->
-107-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:65:6-61
+107-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:65:6-61
 108        <service android:name="io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService" />
-108-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:67:6-101
-108-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:67:15-98
+108-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:67:6-101
+108-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:67:15-98
 109
 110        <meta-data
-110-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:68:7-126
+110-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:68:7-126
 111            android:name="com.google.firebase.messaging.default_notification_channel_id"
-111-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:68:18-94
+111-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:68:18-94
 112            android:value="test-channel" />
-112-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:68:96-124
+112-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:68:96-124
 113
 114        <service
-114-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+114-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
 115            android:name="com.google.firebase.components.ComponentDiscoveryService"
-115-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+115-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
 116            android:exported="false" >
 116-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/315850be90cbe6f0d6104fbbf509c547/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
 117            <meta-data
-117-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+117-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
 118                android:name="com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar"
-118-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+118-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
 119                android:value="com.google.firebase.components.ComponentRegistrar" />
-119-->[:react-native-firebase] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+119-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
 120            <meta-data
 120-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/315850be90cbe6f0d6104fbbf509c547/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:30:13-32:85
 121                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
@@ -241,10 +241,10 @@
 136            android:exported="false" >
 136-->[com.google.firebase:firebase-messaging:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b883f4e79b513b19ea68d17527560a8e/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:30:13-37
 137            <intent-filter android:priority="-500" >
-137-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:57:11-59:27
+137-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:57:11-59:27
 138                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-138-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:58:13-74
-138-->/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/AndroidManifest.xml:58:21-71
+138-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:58:13-74
+138-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:58:21-71
 139            </intent-filter>
 140        </service>
 141
@@ -274,29 +274,29 @@
 154-->[com.google.android.gms:play-services-base:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/144d19458e22dc18e00058ae1ad10ea7/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
 155
 156        <provider
-156-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-27:20
+156-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-27:20
 157            android:name="androidx.core.content.FileProvider"
-157-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-62
+157-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-62
 158            android:authorities="com.appetizardriver.provider"
-158-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-60
+158-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-60
 159            android:exported="false"
-159-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
+159-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
 160            android:grantUriPermissions="true" >
-160-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-47
+160-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-47
 161            <meta-data
-161-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+161-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
 162                android:name="android.support.FILE_PROVIDER_PATHS"
-162-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+162-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
 163                android:resource="@xml/provider_paths" />
-163-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+163-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
 164        </provider>
 165
 166        <activity
-166-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-31:72
+166-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-31:72
 167            android:name="com.yalantis.ucrop.UCropActivity"
-167-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-60
+167-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-60
 168            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-168-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/project/Apt/armenu/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-69
+168-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-69
 169
 170        <provider
 170-->[com.google.firebase:firebase-common:18.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b05d09f72138d8e42f7f1fad6a1cdbd8/jetified-firebase-common-18.0.0/AndroidManifest.xml:12:9-16:39

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "/Users/catalina_2021/Desktop/Aptdemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/38d894e40a2e368f8c5d361ab6de2e60/appcompat-1.1.0/res/values-xlarge-v4/values-xlarge-v4.xml",

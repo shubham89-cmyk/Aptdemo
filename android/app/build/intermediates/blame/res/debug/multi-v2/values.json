@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/catalina_2021/Desktop/Aptdemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/a0c30e838ba4f6a044e6002007ee8d5e/jetified-drawee-2.2.0/res/values/values.xml",
@@ -56,25 +56,6 @@
                         "startOffsets": "41467,41507,41900,42082,42137,43021,43075,43127,43176,43237",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "41502,41549,41938,42132,42179,43070,43122,43171,43232,43282"
-                    }
-                },
-                {
-                    "source": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "231"
-                    },
-                    "to": {
-                        "startLines": "898",
-                        "startColumns": "4",
-                        "startOffsets": "66632",
-                        "endLines": "901",
-                        "endColumns": "12",
-                        "endOffsets": "66809"
                     }
                 },
                 {
@@ -209,6 +190,23 @@
                     }
                 },
                 {
+                    "source": "/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "52",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "734",
+                        "startColumns": "4",
+                        "startOffsets": "47374",
+                        "endColumns": "52",
+                        "endOffsets": "47422"
+                    }
+                },
+                {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/1298a73d7019d13fd1f466cfeaf678a0/cardview-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -247,23 +245,6 @@
                     }
                 },
                 {
-                    "source": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "36",
-                        "endOffsets": "48"
-                    },
-                    "to": {
-                        "startLines": "233",
-                        "startColumns": "4",
-                        "startOffsets": "15284",
-                        "endColumns": "36",
-                        "endOffsets": "15316"
-                    }
-                },
-                {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b68c220e7a6833e112605a5220914d0d/media-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,5,6,7,8,10,11,12,13,14",
@@ -278,6 +259,25 @@
                         "startOffsets": "12037,36462,36515,36568,36621,219867,220043,220165,220427,220622",
                         "endColumns": "88,52,52,52,52,65,121,60,65,66",
                         "endOffsets": "12121,36510,36563,36616,36669,219928,220160,220221,220488,220684"
+                    }
+                },
+                {
+                    "source": "/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "231"
+                    },
+                    "to": {
+                        "startLines": "898",
+                        "startColumns": "4",
+                        "startOffsets": "66632",
+                        "endLines": "901",
+                        "endColumns": "12",
+                        "endOffsets": "66809"
                     }
                 },
                 {
@@ -317,23 +317,6 @@
                     }
                 },
                 {
-                    "source": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "52",
-                        "endOffsets": "64"
-                    },
-                    "to": {
-                        "startLines": "734",
-                        "startColumns": "4",
-                        "startOffsets": "47374",
-                        "endColumns": "52",
-                        "endOffsets": "47422"
-                    }
-                },
-                {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/9ebbaac3c34b0f65ac6c18b618484d1a/jetified-viewpager2-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -353,20 +336,37 @@
                     }
                 },
                 {
-                    "source": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "source": "/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "6,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "157,221",
-                        "endColumns": "63,68",
-                        "endOffsets": "216,285"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "36",
+                        "endOffsets": "48"
                     },
                     "to": {
-                        "startLines": "697,698",
-                        "startColumns": "4,4",
-                        "startOffsets": "44787,44851",
-                        "endColumns": "63,68",
-                        "endOffsets": "44846,44915"
+                        "startLines": "233",
+                        "startColumns": "4",
+                        "startOffsets": "15284",
+                        "endColumns": "36",
+                        "endOffsets": "15316"
+                    }
+                },
+                {
+                    "source": "/Users/catalina_2021/Desktop/Aptdemo/android/app/build/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,306,388,492,601,721,817",
+                        "endColumns": "143,106,81,103,108,119,95,72",
+                        "endOffsets": "194,301,383,487,596,716,812,885"
+                    },
+                    "to": {
+                        "startLines": "790,796,797,798,799,800,801,851",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "53917,54611,54718,54800,54904,55013,55133,63131",
+                        "endColumns": "143,106,81,103,108,119,95,72",
+                        "endOffsets": "54056,54713,54795,54899,55008,55128,55224,63199"
                     }
                 },
                 {
@@ -444,23 +444,6 @@
                     }
                 },
                 {
-                    "source": "/Users/catalina_2021/Desktop/project/Apt/armenu/android/app/build/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,306,388,492,601,721,817",
-                        "endColumns": "143,106,81,103,108,119,95,72",
-                        "endOffsets": "194,301,383,487,596,716,812,885"
-                    },
-                    "to": {
-                        "startLines": "790,796,797,798,799,800,801,851",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "53917,54611,54718,54800,54904,55013,55133,63131",
-                        "endColumns": "143,106,81,103,108,119,95,72",
-                        "endOffsets": "54056,54713,54795,54899,55008,55128,55224,63199"
-                    }
-                },
-                {
                     "source": "/Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/7611ebefe16d5ec66f0d59d1f627caab/coordinatorlayout-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -477,6 +460,23 @@
                         "endLines": "24,4456,5770,5859",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "1334,301638,373764,378975"
+                    }
+                },
+                {
+                    "source": "/Users/catalina_2021/Desktop/Aptdemo/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "157,221",
+                        "endColumns": "63,68",
+                        "endOffsets": "216,285"
+                    },
+                    "to": {
+                        "startLines": "697,698",
+                        "startColumns": "4,4",
+                        "startOffsets": "44787,44851",
+                        "endColumns": "63,68",
+                        "endOffsets": "44846,44915"
                     }
                 }
             ]

@@ -1,0 +1,367 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.appetizardriver"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:5:5-64
+12-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:5:22-62
+13
+14    <uses-feature
+14-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:6:5-85
+15        android:name="android.hardware.camera"
+15-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:6:19-57
+16        android:required="false" />
+16-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:6:58-82
+17    <uses-feature
+17-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:7:5-91
+18        android:name="android.hardware.camera.front"
+18-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:7:19-63
+19        android:required="false" />
+19-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:7:64-88
+20
+21    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+21-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:8:5-81
+21-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:8:22-78
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:9:5-79
+22-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:9:22-76
+23    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+23-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:10:5-81
+23-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:10:22-78
+24    <uses-permission android:name="android.permission.VIBRATE" />
+24-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:11:5-66
+24-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:11:22-63
+25    <uses-permission android:name="android.permission.WAKE_LOCK" />
+25-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+25-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-65
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+26-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-76
+27
+28    <uses-feature
+28-->[com.google.android.gms:play-services-maps:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/94db6a22b395db1eeb9f89506718d5aa/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+29        android:glEsVersion="0x00020000"
+29-->[com.google.android.gms:play-services-maps:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/94db6a22b395db1eeb9f89506718d5aa/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+30        android:required="true" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+30-->[com.google.android.gms:play-services-maps:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/94db6a22b395db1eeb9f89506718d5aa/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+31    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+31-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:26:5-82
+31-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:26:22-79
+32
+33    <queries>
+33-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-14:15
+34        <intent>
+34-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:9-13:18
+35            <action android:name="android.media.action.IMAGE_CAPTURE" />
+35-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-73
+35-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:21-70
+36        </intent>
+37    </queries>
+38
+39    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+39-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-81
+39-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:22-78
+40    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+40-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:5-110
+40-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:22-107
+41
+42    <application
+42-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:13:5-70:19
+43        android:name="com.appetizardriver.MainApplication"
+43-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:14:7-38
+44        android:allowBackup="false"
+44-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:17:7-34
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.1.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b7a9475e4b2b2b8b2aee41a918eff9dc/core-1.1.0/AndroidManifest.xml:24:18-86
+46        android:icon="@mipmap/ic_launcher"
+46-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:16:7-41
+47        android:label="@string/app_name"
+47-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:15:7-39
+48        android:theme="@style/AppTheme" >
+48-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:18:7-38
+49
+50        <!-- android:roundIcon="@mipmap/ic_launcher_round" -->
+51        <activity
+51-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:20:7-30:18
+52            android:name="com.appetizardriver.MainActivity"
+52-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:21:9-37
+53            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+53-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:23:9-86
+54            android:label="@string/app_name"
+54-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:22:9-41
+55            android:launchMode="singleTop"
+55-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:24:9-39
+56            android:windowSoftInputMode="adjustResize" >
+56-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:25:9-51
+57            <intent-filter>
+57-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:26:9-29:25
+58                <action android:name="android.intent.action.MAIN" />
+58-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:27:13-65
+58-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:27:21-62
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:28:13-73
+60-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:28:23-70
+61            </intent-filter>
+62        </activity>
+63
+64        <!-- ......... -->
+65        <!--
+66           <meta-data
+67          android:name="com.google.firebase.messaging.default_notification_icon"
+68          android:resource="@drawable/ic_stat_ic_notification" />
+69        -->
+70        <!--
+71             Set color used with incoming notification messages. This is used when no color is set for the incoming
+72            notification message. See README(https://goo.gl/6BKBk7) for more.
+73        -->
+74        <!--
+75           <meta-data
+76          android:name="com.google.firebase.messaging.default_notification_color"
+77          android:resource="@color/colorAccent" />
+78        -->
+79        <!--
+80        <meta-data
+81        android:name="com.google.firebase.messaging.default_notification_channel_id"
+82        android:value="@string/default_notification_channel_id"/>
+83        -->
+84
+85        <receiver android:name="io.invertase.firebase.notifications.RNFirebaseNotificationReceiver" />
+85-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:45:7-100
+85-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:45:17-98
+86        <receiver
+86-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:46:9-53:20
+87            android:name="io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver"
+87-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:46:67-155
+88            android:enabled="true"
+88-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:46:19-41
+89            android:exported="true" >
+89-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:46:42-65
+90            <intent-filter>
+90-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:47:11-52:27
+91                <action android:name="android.intent.action.BOOT_COMPLETED" />
+91-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:48:13-74
+91-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:48:21-72
+92                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+92-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:49:13-77
+92-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:49:21-75
+93                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+93-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:50:13-77
+93-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:50:21-75
+94
+95                <category android:name="android.intent.category.DEFAULT" />
+95-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:51:13-72
+95-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:51:23-69
+96            </intent-filter>
+97        </receiver>
+98        <!-- ......... -->
+99
+100        <service android:name="io.invertase.firebase.messaging.RNFirebaseMessagingService" >
+100-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:56:7-60:17
+100-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:56:16-89
+101            <intent-filter>
+101-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:57:11-59:27
+102                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+102-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:58:13-74
+102-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:58:21-71
+103            </intent-filter>
+104        </service>
+105
+106        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+106-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:62:7-84
+106-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:62:17-81
+107
+108        <meta-data
+108-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:63:7-65:63
+109            android:name="com.google.android.geo.API_KEY"
+109-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:64:6-51
+110            android:value="AIzaSyATsQuZCY6bq0JIgpkW6HTOnSBsCSrS0ug" />
+110-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:65:6-61
+111        <!-- <uses-library android:name="org.apache.http.legacy" android:required="false"/> -->
+112        <service android:name="io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService" />
+112-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:67:6-101
+112-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:67:15-98
+113
+114        <meta-data
+114-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:68:7-126
+115            android:name="com.google.firebase.messaging.default_notification_channel_id"
+115-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:68:18-94
+116            android:value="test-channel" />
+116-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:68:96-124
+117
+118        <service
+118-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-20:19
+119            android:name="com.google.firebase.components.ComponentDiscoveryService"
+119-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-89
+120            android:exported="false" >
+120-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/315850be90cbe6f0d6104fbbf509c547/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
+121            <meta-data
+121-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:85
+122                android:name="com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar"
+122-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-116
+123                android:value="com.google.firebase.components.ComponentRegistrar" />
+123-->[:react-native-firebase] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-82
+124            <meta-data
+124-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/315850be90cbe6f0d6104fbbf509c547/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:30:13-32:85
+125                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+125-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/315850be90cbe6f0d6104fbbf509c547/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:31:17-139
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.android.gms:play-services-measurement-api:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/315850be90cbe6f0d6104fbbf509c547/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:32:17-82
+127            <meta-data
+127-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+128                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+128-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+130        </service> <!-- Needs to be explicitly declared on P+ -->
+131        <uses-library
+131-->[com.google.android.gms:play-services-maps:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/94db6a22b395db1eeb9f89506718d5aa/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+132            android:name="org.apache.http.legacy"
+132-->[com.google.android.gms:play-services-maps:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/94db6a22b395db1eeb9f89506718d5aa/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+133            android:required="false" />
+133-->[com.google.android.gms:play-services-maps:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/94db6a22b395db1eeb9f89506718d5aa/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+134        <!--
+135             FirebaseMessagingService performs security checks at runtime,
+136             but set to not exported to explicitly avoid allowing another app to call it.
+137        -->
+138        <service
+138-->[com.google.firebase:firebase-messaging:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b883f4e79b513b19ea68d17527560a8e/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:28:9-34:19
+139            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+139-->[com.google.firebase:firebase-messaging:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b883f4e79b513b19ea68d17527560a8e/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:29:13-82
+140            android:exported="false" >
+140-->[com.google.firebase:firebase-messaging:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b883f4e79b513b19ea68d17527560a8e/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:30:13-37
+141            <intent-filter android:priority="-500" >
+141-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:57:11-59:27
+142                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+142-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:58:13-74
+142-->/Users/catalina_2021/Desktop/Aptdemo/android/app/src/main/AndroidManifest.xml:58:21-71
+143            </intent-filter>
+144        </service>
+145
+146        <receiver
+146-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+147            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+147-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+148            android:exported="true"
+148-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+149            android:permission="com.google.android.c2dm.permission.SEND" >
+149-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+150            <intent-filter>
+150-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+151                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+151-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:42:17-81
+151-->[com.google.firebase:firebase-iid:19.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/2c03c0724a7c2cbd270f352a181a2997/jetified-firebase-iid-19.0.0/AndroidManifest.xml:42:25-78
+152            </intent-filter>
+153        </receiver>
+154
+155        <activity
+155-->[com.google.android.gms:play-services-base:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/144d19458e22dc18e00058ae1ad10ea7/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+156            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+156-->[com.google.android.gms:play-services-base:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/144d19458e22dc18e00058ae1ad10ea7/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+157            android:exported="false"
+157-->[com.google.android.gms:play-services-base:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/144d19458e22dc18e00058ae1ad10ea7/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+158            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+158-->[com.google.android.gms:play-services-base:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/144d19458e22dc18e00058ae1ad10ea7/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+159
+160        <provider
+160-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-27:20
+161            android:name="androidx.core.content.FileProvider"
+161-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-62
+162            android:authorities="com.appetizardriver.provider"
+162-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:13-60
+163            android:exported="false"
+163-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:13-37
+164            android:grantUriPermissions="true" >
+164-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:13-47
+165            <meta-data
+165-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-26:58
+166                android:name="android.support.FILE_PROVIDER_PATHS"
+166-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:17-67
+167                android:resource="@xml/provider_paths" />
+167-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:17-55
+168        </provider>
+169
+170        <activity
+170-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-31:72
+171            android:name="com.yalantis.ucrop.UCropActivity"
+171-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:13-60
+172            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+172-->[:react-native-image-crop-picker] /Users/catalina_2021/Desktop/Aptdemo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:31:13-69
+173
+174        <provider
+174-->[com.google.firebase:firebase-common:18.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b05d09f72138d8e42f7f1fad6a1cdbd8/jetified-firebase-common-18.0.0/AndroidManifest.xml:12:9-16:39
+175            android:name="com.google.firebase.provider.FirebaseInitProvider"
+175-->[com.google.firebase:firebase-common:18.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b05d09f72138d8e42f7f1fad6a1cdbd8/jetified-firebase-common-18.0.0/AndroidManifest.xml:13:13-77
+176            android:authorities="com.appetizardriver.firebaseinitprovider"
+176-->[com.google.firebase:firebase-common:18.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b05d09f72138d8e42f7f1fad6a1cdbd8/jetified-firebase-common-18.0.0/AndroidManifest.xml:14:13-72
+177            android:exported="false"
+177-->[com.google.firebase:firebase-common:18.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b05d09f72138d8e42f7f1fad6a1cdbd8/jetified-firebase-common-18.0.0/AndroidManifest.xml:15:13-37
+178            android:initOrder="100" />
+178-->[com.google.firebase:firebase-common:18.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/b05d09f72138d8e42f7f1fad6a1cdbd8/jetified-firebase-common-18.0.0/AndroidManifest.xml:16:13-36
+179
+180        <receiver
+180-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:29:9-33:20
+181            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+181-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:30:13-85
+182            android:enabled="true"
+182-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:31:13-35
+183            android:exported="false" >
+183-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:32:13-37
+184        </receiver>
+185        <receiver
+185-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:34:9-42:20
+186            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+186-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:35:13-100
+187            android:enabled="true"
+187-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:36:13-35
+188            android:exported="true"
+188-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:37:13-36
+189            android:permission="android.permission.INSTALL_PACKAGES" >
+189-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:38:13-69
+190            <intent-filter>
+190-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:39:13-41:29
+191                <action android:name="com.android.vending.INSTALL_REFERRER" />
+191-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:40:17-79
+191-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:40:25-76
+192            </intent-filter>
+193        </receiver>
+194
+195        <service
+195-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:44:9-47:40
+196            android:name="com.google.android.gms.measurement.AppMeasurementService"
+196-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:45:13-84
+197            android:enabled="true"
+197-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:46:13-35
+198            android:exported="false" />
+198-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:47:13-37
+199        <service
+199-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:48:9-52:72
+200            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+200-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:49:13-87
+201            android:enabled="true"
+201-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:50:13-35
+202            android:exported="false"
+202-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:51:13-37
+203            android:permission="android.permission.BIND_JOB_SERVICE" />
+203-->[com.google.android.gms:play-services-measurement:16.5.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/4f6e8ff1a85a920dda842020511c9ad7/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:52:13-69
+204
+205        <meta-data
+205-->[com.google.android.gms:play-services-basement:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/223a53232d689090b7a03f8f357b0ddf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+206            android:name="com.google.android.gms.version"
+206-->[com.google.android.gms:play-services-basement:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/223a53232d689090b7a03f8f357b0ddf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+207            android:value="@integer/google_play_services_version" />
+207-->[com.google.android.gms:play-services-basement:17.0.0] /Users/catalina_2021/.gradle/caches/transforms-2/files-2.1/223a53232d689090b7a03f8f357b0ddf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+208    </application>
+209
+210</manifest>
